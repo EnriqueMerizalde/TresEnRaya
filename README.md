@@ -1,3 +1,5 @@
+![image](https://udla.brightspace.com/d2l/lp/navbars/6606/theme/viewimage/239/view?v=20.22.12.17682)
+
 # TresEnRaya
 Integrantes: Enrique Merizalde, Andres Loza, Jossue Jativa, Jaime Mendoza
 ---
