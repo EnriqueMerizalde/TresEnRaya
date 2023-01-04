@@ -272,6 +272,18 @@ void playTresEnRaya(int whoseTurn)
 	}
 }
 
+void medirtiempo()
+{
+    auto start = std::chrono::high_resolution_clock::now();
+    auto end = std::chrono::high_resolution_clock::now();
+
+    std::chrono::duration<double> elapsed = end - start;
+    float elapsed_time = elapsed.count();
+    
+      std::cout << std::fixed << std::setprecision(10) << "Tiempo de compilación: " << elapsed_time << " segundos" << std::endl;
+}
+
+
 int main(int argc, char const *argv[])
 {
     int opcion;
@@ -294,6 +306,7 @@ int main(int argc, char const *argv[])
                 }
 
                 playTresEnRaya(opcion);
+                medirtiempo();
             }
             else if(opcion==2){
                 printf("Has salido del juego. Adios");
