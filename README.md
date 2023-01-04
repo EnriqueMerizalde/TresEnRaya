@@ -53,6 +53,9 @@ Para armar un arbol de posibilidades tomando en cuenta esto, se debe considerar 
 
 Si se decide armar el arbol de posibilidades desde cero del Tres en Raya, se debera iniciar con un tablero vacio, y las 9 posibilidades en las que el usuario ingrese su icono, ya sea X o O, y luego sera el turno del siguiente usuario, unicamente con 8 posibilidades para ingresar su icono, y asi sucesivamente hasta que todos los espacios esten llenos. 
 
+> Nota: Se agrega una tabla con los mejores escenarios para que la computadora gane la partida de tres en raya:
+
+
 
 ## Instrucciones para ejecutar en Windows y Linux  
 
