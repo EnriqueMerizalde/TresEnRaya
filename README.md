@@ -30,6 +30,19 @@ Al jugar tres en raya existen los mejores y los peores casos, es decir donde los
 
 > Nota: En ambos casos podemos percatarnos de que los tiempos son bajos, pero los de la computadora son mucho mas bajos que el de los humanos, y esto es debido a que unicamente se juega tres en raya sobre una matriz de 3 filas x 3 columnas, por lo que a medida que hipteticmanete vaya incrementando el tamaño de esta matriz, el tiempo que tomará en tomar una desicion ya sea la computadora o el humano, ira incrementando.
 
+Se realizaron los siguientes casos: 
+1. Empieza computadora con un O en una de las esquinas, y el jugador con una X en el centro
+![image](https://user-images.githubusercontent.com/121683973/210480593-ea2138cd-5491-437d-9663-93aedc033a50.png)
+
+2. Empieza computadora con un O en una de las esquinas, y el jugador con X en una posicion distinta al centro
+![image](https://user-images.githubusercontent.com/121683973/210480999-0c2999ac-f512-4f0e-ba44-474675d4bbb0.png)
+
+3. Empieza el humano con una X en el centro
+![image](https://user-images.githubusercontent.com/121683973/210481561-87d98f7b-d526-4d73-8f48-e093880c771b.png)
+
+
+4. Empieza el humano con una X en un lugar distinto al centro.
+![image](https://user-images.githubusercontent.com/121683973/210481831-e1ea5ded-39d3-47a6-8c43-ef6be0ac1ebe.png)
 
 ## Tabla Estudio Combinatorio del Juego (Arbol de posibilidades)
 El juego de Tres en Raya tiene muchas posibilidades para poder ganar, y de esto depende si el jugador o la máquina comienza primero. Suponiendo que el Jugador es X y la máquina O, en total hay unicmente 138 posiciones finales. Si empiezna las X, hay 91 posibilidades de que el Jugador gane, 44 posibilidades en las que la computadora gane y unicamente 3 en la que exista un empate; y todo esto viceversa si empieza la Maquina, es decir comienzan los O. 
