@@ -30,7 +30,7 @@ Al jugar tres en raya existen los mejores y los peores casos, es decir donde los
 
 > Nota: En ambos casos podemos percatarnos de que los tiempos son bajos, pero los de la computadora son mucho mas bajos que el de los humanos, y esto es debido a que unicamente se juega tres en raya sobre una matriz de 3 filas x 3 columnas, por lo que a medida que hipteticmanete vaya incrementando el tamaño de esta matriz, el tiempo que tomará en tomar una desicion ya sea la computadora o el humano, ira incrementando.
 
-Se realizaron los siguientes casos: 
+Se realizaron los siguientes casos de ejemplo: 
 1. Empieza computadora con un O en una de las esquinas, y el jugador con una X en el centro
 ![image](https://user-images.githubusercontent.com/121683973/210480593-ea2138cd-5491-437d-9663-93aedc033a50.png)
 
