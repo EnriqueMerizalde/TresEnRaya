@@ -1,4 +1,6 @@
-# TresEnRaya
+![image](https://user-images.githubusercontent.com/121683973/210477348-5e9ad476-1249-4d5d-b997-9acfebca7e39.png)
+
+# TresEnRayaundefined
 Integrantes: Enrique Merizalde, Andres Loza, Jossue Jativa, Jaime Mendoza
 ---
 ## Descripción del Juego:
